@@ -83,11 +83,11 @@ npm run preview
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Munish Dhiman DhimanNdunda**
 
 - GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- Twitter: [@Munish Dhimanndunda](https://twitter.com/Munish Dhimanndunda)
+- LinkedIn: [Munish Dhiman DhimanNdunda](https://www.linkedin.com/in/Munish Dhiman-ndunda-b13a95107/)
 
 ## Feedback and Contributions
 

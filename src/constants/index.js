@@ -17,6 +17,10 @@ import {
   postgresql,
   rubyrails,
   graphql,
+  aws,
+  php,
+  shopify,
+  wordpress,
   komikult,
   leaderboard,
   math,
@@ -85,8 +89,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
+    name: 'PHP',
+    icon: php,
   },
   {
     name: 'Tailwind CSS',
@@ -97,24 +101,24 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: 'Rails',
-    icon: rubyrails,
+    name: 'Wordpress',
+    icon: wordpress,
   },
   {
     name: 'graphql',
     icon: graphql,
   },
   {
-    name: 'postgresql',
-    icon: postgresql,
+    name: 'shopify',
+    icon: shopify,
   },
   {
     name: 'git',
     icon: git,
   },
   {
-    name: 'figma',
-    icon: figma,
+    name: 'AWS',
+    icon: aws,
   },
   {
     name: 'docker',
