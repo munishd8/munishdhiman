@@ -37,12 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        <strong>Welcome to the digital realm! I'm Munish Dhiman</strong>, transforming ideas into immersive online experiences. With expertise in WordPress, PHP, React, HTML/CSS, and Laravel, I craft seamless, innovative solutions. As a passionate developer, I bring a commitment to perfection, staying on the cutting edge to deliver collaborative, client-centric outcomes. Elevate your digital presence with Munish Dhiman—where every line of code tells a unique story of excellence.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

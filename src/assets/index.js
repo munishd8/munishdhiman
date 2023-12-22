@@ -41,6 +41,7 @@ import aws from './tech/aws.png';
 import php from './tech/php.png';
 import shopify from './tech/shopify.png';
 import wordpress from './tech/wordpress.png';
+import laravel from './tech/laravel.png';
 
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
@@ -90,6 +91,7 @@ export {
   php,
   shopify,
   wordpress,
+  laravel,
   reactjs,
   redux,
   tailwind,

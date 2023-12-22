@@ -21,6 +21,7 @@ import {
   php,
   shopify,
   wordpress,
+  laravel,
   komikult,
   leaderboard,
   math,
@@ -50,24 +51,48 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
-    icon: frontend,
-  },
-  {
     title: 'Backend Developer',
     icon: backend,
   },
+  {
+    title: 'Frontend Developer',
+    icon: frontend,
+  },  
   {
     title: 'UI/UX Design',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Database',
     icon: prototyping,
   },
 ];
 
 const technologies = [
+  {
+    name: 'Wordpress',
+    icon: wordpress,
+  },
+  {
+    name: 'PHP',
+    icon: php,
+  },
+  {
+    name: 'laravel',
+    icon: laravel,
+  },
+  {
+    name: 'React JS',
+    icon: reactjs,
+  },
+  {
+    name: 'Node JS',
+    icon: nodejs,
+  },
+  {
+    name: 'shopify',
+    icon: shopify,
+  },
   {
     name: 'HTML 5',
     icon: html,
@@ -85,33 +110,13 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: 'React JS',
-    icon: reactjs,
-  },
-  {
-    name: 'PHP',
-    icon: php,
-  },
-  {
     name: 'Tailwind CSS',
     icon: tailwind,
-  },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  },
-  {
-    name: 'Wordpress',
-    icon: wordpress,
-  },
+  },    
   {
     name: 'graphql',
     icon: graphql,
-  },
-  {
-    name: 'shopify',
-    icon: shopify,
-  },
+  },  
   {
     name: 'git',
     icon: git,
@@ -119,41 +124,37 @@ const technologies = [
   {
     name: 'AWS',
     icon: aws,
-  },
-  {
-    name: 'docker',
-    icon: docker,
-  },
+  },  
 ];
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
-    iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
-  },
-  {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Data Operator',
+    company_name: 'HPSEB DHARMSHALA.',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Mar 2013 - May 2014',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Front-End Developer',
+    company_name: 'W3MONKS PVT LTD',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'May 2016 - May 2017',
+  },  
+  {
+    title: 'Senior Wordperess Developer',
+    company_name: 'AMAKEIN TECHNOLOGIES PVT LTD',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'May 2017 - May 2022',
   },
   {
     title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    company_name: 'OneWord Solutions PVT LTD',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Jun 2022 - March 2023',
   },
 ];
 
